@@ -1,2 +1,8 @@
 # KubernetesPlayground
-establish the kubernetes server and use helem / Argo CD .. etc
+
+## Explanation
+
+### This is Chungjung's playground to use and test the kubernetes and kubernetes relaions module and tools
+
+## Used Tools 
+
